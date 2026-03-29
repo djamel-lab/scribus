@@ -1,0 +1,8 @@
+.DS_Store
+*.m4a
+*.mp4
+*.env
+client_secret*.json
+transcripts/
+__pycache__/
+*.pyc
